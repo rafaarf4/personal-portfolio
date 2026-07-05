@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+# Personal Portfolio Website
 
 A modern and responsive personal portfolio website built using **HTML, CSS, and JavaScript**. This project showcases my background, technical skills, selected projects, and interests in software development and UI/UX design.
 
@@ -6,7 +6,7 @@ A modern and responsive personal portfolio website built using **HTML, CSS, and 
 
 ---
 
-## ✨ Features
+## Features
 
 - Responsive Design
 - Semantic HTML5 Structure
@@ -23,7 +23,7 @@ A modern and responsive personal portfolio website built using **HTML, CSS, and 
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - HTML5
 - CSS3
@@ -33,7 +33,7 @@ A modern and responsive personal portfolio website built using **HTML, CSS, and 
 
 ---
 
-## 🎯 Sections
+## Sections
 
 - Hero
 - About Me
@@ -45,7 +45,7 @@ A modern and responsive personal portfolio website built using **HTML, CSS, and 
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Rafa Ayu Radhyafitri**
 
